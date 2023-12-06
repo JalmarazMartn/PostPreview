@@ -1,0 +1,37 @@
+{
+  "id": "d0875e04-b21e-4739-a22d-b3170ac2ffba",
+  "name": "PostPreview",
+  "publisher": "Jesus Almaraz Martin",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {"id": "4568be5e-eb6f-4ca5-aea9-5534b1b3aeef",
+    "name": "Excise Taxes Spain - IIEE alcohol y SILICIE",
+    "publisher": "Técnicas Informática Pro.Serv. y Ases,SL",
+    "version": "16.0.1.22"}
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 69000,
+      "to": 69010
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
